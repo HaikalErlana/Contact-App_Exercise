@@ -6,5 +6,3 @@ import './styles/style.css';
 
 const root = createRoot(document.getElementById('root'));
 root.render(<ContactApp />);
-
-// tes lagi apakah namanya sama haikal atau bukan.
