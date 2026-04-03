@@ -7,4 +7,4 @@ import './styles/style.css';
 const root = createRoot(document.getElementById('root'));
 root.render(<ContactApp />);
 
-// Hanya ingin melakukan testing apakah sudah berubah terkait dengan githubnya
+// tes lagi apakah namanya sama haikal atau bukan.
